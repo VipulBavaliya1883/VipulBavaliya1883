@@ -17,8 +17,9 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="Vipul Bavaliya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Vipul Bavaliya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vipul Bavaliya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Vipul Bavaliya | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 
 <br />
 
@@ -50,5 +51,6 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VipulBavaliya1883&show_icons=true&locale=en" alt="VipulBavaliya1883" /></p>
 
-[twitter]: https://twitter.com/VIPULBAVALIYA19
 [linkedin]: https://www.linkedin.com/in/vipul-bavaliya-a9b819206/
+[twitter]: https://twitter.com/VIPULBAVALIYA19
+[facebook]: https://www.facebook.com/bavliya.vipul.52/
