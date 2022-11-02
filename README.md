@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/VipulBavaliya1883/VipulBavaliya1883/blob/main/Wave.gif" height="55px" width="55px">, I'm Vipul Bavaliya</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Developer | Content Creator | Learner
 
 ?></h3>
 
